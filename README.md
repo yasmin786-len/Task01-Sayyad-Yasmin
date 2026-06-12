@@ -10,3 +10,12 @@ A chatbot developed using Python dictionaries and control flow. The chatbot resp
 * Dictionaries
 * Loops
 * Conditional Statements
+
+
+## Author
+
+Sayyad Yasmin
+
+## Internship
+
+DecodeLabs AI Internship Program
